@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffbb83;
+}
+.p3 {
+  font-family: 'Arial', sans-serif;
+}
+.p2 {
+  font-family: 'Helvetica', sans-serif;
+}
+
+#projects {
+  background-color: #ffbb83;
+}
+
+section {
+  scroll-margin-top: 65px;
+}
